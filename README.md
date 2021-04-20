@@ -1,0 +1,1 @@
+A simple program to help you work out where your MPI processes are running.
